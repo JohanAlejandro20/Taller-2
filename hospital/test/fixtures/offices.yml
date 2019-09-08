@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nom_office: MyString
+  cod_office: 1
+  ubica_office: MyText
+  tipo_office: MyString
+
+two:
+  nom_office: MyString
+  cod_office: 1
+  ubica_office: MyText
+  tipo_office: MyString

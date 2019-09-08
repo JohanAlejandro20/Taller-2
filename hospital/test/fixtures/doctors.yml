@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nom_doctor: MyString
+  ape_doctor: MyString
+  cc_doctor: 1
+  celular: 1
+  tipo_doctor: MyText
+
+two:
+  nom_doctor: MyString
+  ape_doctor: MyString
+  cc_doctor: 1
+  celular: 1
+  tipo_doctor: MyText
